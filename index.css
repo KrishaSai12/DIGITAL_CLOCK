@@ -1,0 +1,29 @@
+body{
+    margin:0%;
+    padding: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(0deg,rgb(15, 219, 223)0%,rgb(28, 31, 212)86%);
+    
+}
+#container{
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 7px;
+}
+.time{
+    font-family: "Digital Font", Arial, sans-serif;
+    font-size: 80px;
+    color: white;
+    height: 100px;
+    
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellowgreen;
+}
